@@ -1,0 +1,12 @@
+pip install tensorflow
+pip install opencv-python
+pip install matplotlib
+pip install pandas
+pip install scikit-learn
+pip install efficientnet
+pip install pydicom
+pip install tqdm
+pip install nibabel
+pip install path.py
+pip install tensorflow-hub
+pip install keras_applications
